@@ -1,0 +1,2 @@
+Car moves on roads
+Boat moves on water

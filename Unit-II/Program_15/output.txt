@@ -1,0 +1,11 @@
+Car Details
+Registration: MH12AB1234
+Rate per day: 2000
+Doors: 5
+Rent for 3 days: 6000
+
+Bike Details
+Registration: MH12CD5678
+Rate per day: 800
+Engine Capacity: 150 cc
+Rent for 3 days: 2160

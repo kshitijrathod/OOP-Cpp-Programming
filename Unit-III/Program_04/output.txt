@@ -1,0 +1,3 @@
+After prefix increment: 6
+Value returned by postfix increment: 6
+Counter after postfix increment: 7

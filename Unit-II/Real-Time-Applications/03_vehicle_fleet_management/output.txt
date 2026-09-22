@@ -1,0 +1,13 @@
+=== Fleet Status ===
+Vehicle V001 engine started.
+Truck | Vehicle ID: V001 | Registration: MH12-AB-1234 | Fuel: 100%
+Cargo capacity: 10.5 tonnes
+
+Vehicle V002 engine started.
+Delivery Van | Vehicle ID: V002 | Registration: MH12-CD-5678 | Fuel: 100%
+Packages loaded: 50
+
+Vehicle V003 engine started.
+Delivery Bike | Vehicle ID: V003 | Registration: MH12-EF-9012 | Fuel: 100%
+Delivery box: Available
+

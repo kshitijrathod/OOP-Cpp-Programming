@@ -1,0 +1,8 @@
+Employee ID: 101
+Name: Asha
+Salary: 48000
+
+Employee ID: 102
+Name: Vikas
+Salary: 40000
+

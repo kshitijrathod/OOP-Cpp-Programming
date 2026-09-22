@@ -1,0 +1,3 @@
+First distance: 120 meters
+Second distance: 90 meters
+First distance is greater

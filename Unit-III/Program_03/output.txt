@@ -1,0 +1,2 @@
+Original value: 25
+Negated value: -25

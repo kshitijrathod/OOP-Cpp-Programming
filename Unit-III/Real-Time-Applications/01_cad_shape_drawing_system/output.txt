@@ -1,0 +1,7 @@
+=== CAD Shape System ===
+Drawing circle with radius 5
+Area: 78.5398 square units
+Drawing rectangle 4 x 6
+Area: 24 square units
+Drawing triangle with base 3 and height 8
+Area: 12 square units

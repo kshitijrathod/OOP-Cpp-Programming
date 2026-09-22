@@ -1,0 +1,4 @@
+=== Employee Payroll ===
+ID: 101 | Name: Amit | Department: IT | Type: Full-Time | Salary: Rs. 65000
+ID: 102 | Name: Sneha | Department: HR | Type: Part-Time | Salary: Rs. 30000
+ID: 103 | Name: Rohan | Department: Marketing | Type: Intern | Stipend: Rs. 15000

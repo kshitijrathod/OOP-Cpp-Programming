@@ -1,0 +1,2 @@
+Passing by value: Base object
+Passing by reference: Derived object

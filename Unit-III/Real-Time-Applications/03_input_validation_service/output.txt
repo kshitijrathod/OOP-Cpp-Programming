@@ -1,0 +1,5 @@
+Marks 88 valid: true
+Marks 120 valid: false
+Amount 4500.50 valid: true
+Name Priya Sharma valid: true
+Name Priya123 valid: false

@@ -1,0 +1,4 @@
+=== Payment Gateway ===
+Credit-card transaction TXN001 for Rs. 2500 using XXXX-XXXX-1234 completed.
+UPI transaction TXN002 for Rs. 1200 from student@upi completed.
+Net-banking transaction TXN003 for Rs. 5000 through Example Bank completed.
